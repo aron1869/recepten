@@ -1,0 +1,16 @@
+body{
+  background-color: gainsboro
+}
+img{
+  height: 300px;
+  width: 500px;
+  float: right;
+}
+
+ol.c {
+    list-style-type: circle
+  }
+
+ol.d {
+    list-style-type: circle
+}
